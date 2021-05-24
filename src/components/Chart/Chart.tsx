@@ -4,11 +4,9 @@ import { Datapoint } from '../../models/expenses';
 
 const Chart = (props: any) => {
     const datapointValues = props.datapoints.map((datapoint: Datapoint) => {
-        console.info(datapoint);
         return datapoint.value;
     });
     const maxValue = Math.max(...datapointValues);
-    console.log(maxValue);
 
     return (
         <div className="chart">
