@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Expense 1",
+        "amount": 180.02,
+        "date": "2019-07-05T12:33:27"
+    },
+    {
+        "id": 2,
+        "title": "Expense 2",
+        "amount": 110.70,
+        "date": "2020-07-24T10:43:49"
+    },
+    {
+        "id": 3,
+        "title": "Expense 3",
+        "amount": 104.61,
+        "date": "2022-05-30T04:45:18"
+    },
+    {
+        "id": 4,
+        "title": "Expense 4",
+        "amount": 386.54,
+        "date": "2021-06-01T09:00:00"
+    },
+    {
+        "id": 5,
+        "title": "Expense 5",
+        "amount": 397.25,
+        "date": "2019-10-03T09:01:56"
+    },
+    {
+        "id": 6,
+        "title": "Expense 6",
+        "amount": 110.25,
+        "date": "2019-10-04T09:01:56"
+    }
+]
